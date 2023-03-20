@@ -1,0 +1,21 @@
+
+  
+body {
+      background-image: url('Background CV.jpg');
+	  background-repeat: no-repeat;
+	  background-size: cover;
+     }  
+	 
+th {
+
+  padding-left: .5em;
+  padding-right: .5em;
+  border: 1px solid #900;
+  background-color: pink;
+}
+
+h1 {
+	color: black;
+}
+
+

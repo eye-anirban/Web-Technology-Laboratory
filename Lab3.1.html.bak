@@ -1,0 +1,17 @@
+<html>
+<head>
+      <title>
+	         COMPANY DETAILS
+	  </title>
+</head>
+
+
+<frameset rows="20%,80%" border=3>
+	<frame src="Lab3.2.html"/>
+			<frameset cols="30% ,70%" border=3>
+				<frame src="Lab3.3.html"/>
+				<frame src="Lab3.6.html"/>
+			</frameset>
+</frameset>
+
+</html>

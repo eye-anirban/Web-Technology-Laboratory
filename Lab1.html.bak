@@ -1,0 +1,118 @@
+<html>
+<head>
+      <title>
+	  INSTITUTE DETAILS
+	  </title>
+</head>
+
+<body bgcolor="pink">
+<img src="Logo.png" align="left" height="100" width="100">
+<img src="Logo.png" align="right" height="100" width="100">
+<h1><u><b><div align="center"> 
+BHUBANESWAR INSTITUTE OF TECHNOLOGY 
+</div></b></u></h1>
+
+<marquee>
+<font color="blue" size="5">
+       Celebrating 25 years of Glorious achievements [Silver Jubilee]
+</font>
+</marquee>
+
+<h3>About the Institute:</h3>
+<div style="background-color:ffff66;">
+<p>
+Bhubaneswar Institute of technology is among the premier institutes of India.
+It is the no. 1 engineering college in East India. Started just as a school in 
+1997 with just 12 students , it has come a long way since then, and today 25 
+years later , we can proudly say that creating this institute under the tutelage
+of <u><b>Shri. Bhuvan Goswami</b></u> was one of the best decisions ever taken for the education 
+of children in East India.
+</p>
+<p>
+This university not only provides quality education but also an environment which 
+is essential for mental peace of the student. The entire campus is surrouded by 
+lush green fields, which is a treat to the eyes.
+</p>
+Apart from studies , students can explore other fields of interest as well such as:
+<ul type="circle">
+<li>Sports
+    <ol>
+	    <li>Cricket</li>
+		<li>Football</li>
+		<li>Badminton</li>
+		<li>Table Tennis</li>
+	</ol>
+</li>
+<li>Swimming</li>
+<li>Gymming</li>
+<li>Music and Dance</li>
+<li>Drama Academy</li>
+</ul>
+</div>
+<div>
+<img src="institute.jpg" align="right" width="475" height="310"/>
+
+<h3>Courses offered by the Institute are:</h3>
+<div style="background-color:#ccffff;">
+<table border="2">
+<tr>
+    <th>School</th>
+	<th>Courses offered</th>
+</tr>
+<tr>
+    <td>Technology</td>
+	<td>    
+	         Computer Science   <br>
+	         Electrical         <br>
+		 Electronics            <br>
+		 Mechanical             <br>
+		 Civil</td>
+</tr>
+<tr>
+    <td>Medical</td>
+	<td>Doctor/Surgeon<br>
+	    Dental</td>
+</tr>
+<tr>
+    <td>Others</td>
+	<td>BCA<br>
+	    BBA<br>
+		B.Arch<br>
+		BSc.Nursing</td>
+</tr>	
+</table>
+</div>	   
+<br><br>
+<img src="United_States_Institute_of_Peace.jpg" align="left" height="300" width="400"/>	   
+
+<div style="background-color:#99ff99;">
+<br><br><br>
+How to contact us?<br><br>
+Email us :<font color="blue"><u> admission.cse@bhuv.ac.in </u></font><br><br>
+Call us :<font color="blue"> 9473297516 , 7833459022 </font><br>
+
+Note : Please email us or call us only with your registered email-id or phone number.
+Phone call or mails with unauthorized ID's wont be recieved or entertained.
+<br><br><br><br><br><br><br><br>
+</div>
+<br>
+<img src="bitee.png" align="right" height="350" width="350"/>
+<pre>
+<div style="background-color:#ffff99;">
+<br><br><br>
+<font size="5">
+<b>
+ADMISSIONS OPEN !
+Register right now for the BITEE Entrance examination.
+ABSOLTELY FREE OF COST!
+To register,<a href=“page2.html”>APPLY HERE</a>.
+Last Day to register is 25th March 2022. Hurry.
+<br>
+</b>		
+</font>
+</div>
+</pre>
+
+</body>
+</html>
+

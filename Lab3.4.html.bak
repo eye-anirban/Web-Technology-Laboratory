@@ -1,0 +1,34 @@
+<html>
+<body bgcolor="ccffff">
+<h2>
+<u>
+Our products are:
+</u></h2><br><br><br>
+<table border="10" align="center">
+<tr><td>
+1.Pulses</td>
+<td>
+  <img src="Pulses.png" align="left" width="350" height="200"/>
+</td></tr>
+<tr><td>
+2.Utensils</td>
+<td>
+  <img src="utensils.png" align="left" width="350" height="200"/>
+  </td></tr>
+<tr><td>
+3.Electronics</td>
+<td>  <img src="electronics.png" align="left" width="350" height="200"/>
+  </td></tr>
+<tr><td>
+4.Retail Goods</td>
+  <td><img src="retail.png" align="left" width="350" height="200"/>
+  </td></tr>
+<tr><td>
+5.Body Care</td>
+ <td> <img src="body.png" align="left" width="350" height="200"/>
+  </td></tr>
+  </table>
+
+
+</body>
+</html>

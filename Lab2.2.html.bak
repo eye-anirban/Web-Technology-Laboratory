@@ -1,0 +1,109 @@
+<html>
+<head>
+      <title>
+	  BIODATA
+	  </title>
+
+<link rel="stylesheet" type="text/css" href="Lab2.2css.css" />
+</head>
+
+<body>
+<table border=15 bordercolor="000066">
+<tr>
+<td>
+<h1 align="center"><u>
+              BIO-DATA
+</u>
+</h1>
+
+
+<br><br><br><br>
+<center>
+<img src="Photo voter real.jpeg" height="200" width="200" />
+</center>
+
+
+<font size="5">
+<pre>
+<i><h2>
+      <u>PERSONAL INFORMATION:</u>
+</h2></i>
+			<b><u>Name</u>          : ANIRBAN HAZRA</b><br>
+			<b>Date of Birth</b> : 03-11-2002<br>
+			<b>Father's Name</b> : Tapas Kumar Hazra<br>
+			<b>Address</b>       : GD-366/8 , Sector-3 , Saltlake , Kolkata-700106                       <br>
+			<b>Contact No:</b>   : 9477497219<br>
+			<b>Email-ID</b>      : anirbanhazra031102@gmail.com<br>
+			<b>Nationality</b>   : INDIAN<br>
+			<b>Occupation</b>    : Student<br>
+</pre>
+</font>
+<pre>
+<h1><i>       <u>EDUCATIONAL QUALIFICATION:</u></i></h1>
+<font size="5">
+          My educational experience and qualifications are provided in the table below:
+</pre>
+<center>
+
+<table border=2 width="500" height="200" bgcolor="ffff99">
+<tr>
+   <th>YEAR</th>
+   <th>DEGREE</th>
+   <th>UNIVERSITY</th>
+   <th>GRADE/CGPA</th>
+</tr>
+<tr align="center">
+   <td bgcolor="#99ff99">2018</td>
+   <td>CBSE-10</td>
+   <td>Bhavan's</td>
+   <td>95.2%</td>
+</tr>
+<tr align="center">
+   <td bgcolor="99ff99">2020</td>
+   <td>CBSE-12</td>
+   <td>Bhavan's</td>
+   <td>95.8%</td>
+</tr>   
+<tr align="center">
+   <td bgcolor="99ff99">2024</td>
+   <td>B.Tech</td>
+   <td>KIIT</td>
+   <td>9.52</td>
+</tr>
+</table>
+</font>
+</center>
+
+<pre>
+	<h1><b>   	<u>SKILLS:</u></b> </h1>
+<font size="5">	
+			1. Programming - C , C++ , Java , HTML(CSS)
+			2. DBMS (SQL , PLSQL)
+			3. Data Structures , Object Oriented Programming
+			4. Engineering Graphics - AUTOCAD
+
+          I , Anirban Hazra, the undersigned , hereby declare that all the data provided above 
+          in the Bio-Data is true to the best of my knowledge.
+</font>	
+</pre>   
+
+<center>
+
+SIGNATURE-
+<font size="5">
+<img src="Signature.png"/>
+</font>
+</center>
+
+<br>
+</td>
+</tr>
+</table>    
+</body>
+</html>	
+
+
+
+
+
+

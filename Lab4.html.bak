@@ -1,0 +1,63 @@
+<html>
+<head>
+<style>
+body{ background-image: url('Background CV.jpg');
+      background-repeat: no-repeat;
+	  background-size:cover;
+	  }
+</style>
+</head>
+<body bgcolor="pink">
+<h1 align="center"><u> PERSONAL DETAILS </u></h1>
+<pre>
+<center>
+<form method="post" action="thanks.html">
+<br>
+<table>
+<tr>
+<td>
+<label for="sname"><h2>NAME</h2></label>
+</td>
+<td>
+<input type="text" size="20" maxlength="30" />
+</td>
+</tr>
+<tr>
+<td>
+<label for="sname"><h2>USERNAME</h2></label>
+</td>
+<td>
+<input type="text" size="20" maxlength="30" />
+</td>
+</tr>
+<tr>
+<td>
+<label for="password"><h2>PASSWORD</h2></label></td>
+<td>
+<input type="password"/>
+</td>
+</tr>
+<tr>
+<td>
+<label for="password"><h2>CONFIRM PASSWORD</h2></label></td>
+<td>
+<input type="password"/>
+</td>
+</tr>
+
+<br><br>
+<tr>
+<td>
+<label for="email"><h2>EMAIl-ID</h2></label></td>
+<td>
+<input type="text" size="30" maxlength="50" />
+</td>
+</tr>
+</table>
+
+<input type="submit" value="REGISTER" />         <input type="reset" value="CANCEL" />
+</center>
+</pre>
+</form>
+</body>
+</html>
